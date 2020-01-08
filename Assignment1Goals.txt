@@ -1,0 +1,15 @@
+Keep up with current pace
+Update portfolio
+	Create impressive environment
+		Gain understanding of shaders
+		Improve understanding of animating prop objects
+		Improve understanding of Unity lighting
+	Redo Intro Screen for twitch.tv/weirdistbuilds
+		Improve understanding of Unity lighting
+		Improve understanding of rendering in Maya
+	Create mods for current Bethesda games
+		Gain understanding of Creation Kit
+			Gain understanding of scripting used in Creation Kit
+			Gain understanding of importing assets to Creation Kit
+Connect with current Bethesda community members
+Increase focus to better fit job descriptions for Bethesda Game Studios
